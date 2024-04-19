@@ -17,7 +17,7 @@
 --------------
 ### Clone the Repository
 ``` bash
- git clone https://github.com/rohith-bandi/digital_banking
+ git clone https://github.com/sruthivooda/Digital_Banking_System
 ```
 ### Navigate to the Directory
 ``` bash
