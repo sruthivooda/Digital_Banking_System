@@ -21,7 +21,7 @@
 ```
 ### Navigate to the Directory
 ``` bash
- cd digital_banking
+ cd Digital_Banking_System
  python main.py
 ```
 
